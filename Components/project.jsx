@@ -1,4 +1,5 @@
 import React from 'react'
+import './project.css'
 const url = 'https://fathomless-escarpment-67497.herokuapp.com/project'
 export default class Project extends React.Component{
     constructor(){
